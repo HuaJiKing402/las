@@ -1,0 +1,23 @@
+{
+  "name": "las",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.26",
+    "unplugin-auto-import": "^0.12.0",
+    "vue": "^3.2.41",
+    "vue-router": "next"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "unplugin-element-plus": "^0.4.1",
+    "unplugin-vue-components": "^0.22.11",
+    "vite": "^3.2.3"
+  }
+}
